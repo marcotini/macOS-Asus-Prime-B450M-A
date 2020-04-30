@@ -21,9 +21,9 @@ Tested with macOS 10.15.4 with OpenCore 0.5.7
 
 ## Known issues
 
-* *Adobe suite not working properly.*
-* *VMWare fusion not working at all.*
-* *Apple Watch simulator on Xcode it's not working.*
+* *Adobe suite not working properly*
+* *VMWare fusion not working at all*
+* *Apple Watch simulator on Xcode it's not working*
 
 ## Links
 
