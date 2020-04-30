@@ -9,6 +9,8 @@ Tested with macOS 10.15.4 with OpenCore 0.5.7
 
 ## System specification
 
+* List of all components https://www.amazon.it/hz/wishlist/ls/2SRQ3XKJYXCBU/
+
 * **Motherboard:** ASUS B450M-A
 	* Network: Realtek 8111H
 	* Audio: Realtek ALC887
