@@ -21,11 +21,15 @@ Tested with macOS 10.15.4 with OpenCore 0.5.7
 
 ## Known issues
 
-* *Adobe suite not working properly*
-* *VMWare fusion not working at all*
-* *Apple Watch simulator on Xcode it's not working*
+* Adobe suite not working properly
+* VMWare fusion not working at all
+* Apple Watch simulator on Xcode it's not working
 
 ## Links
 
-* [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg)
-* [OpenCore Sanity Checker](https://opencore.slowgeek.com)
+* https://github.com/acidanthera/OpenCorePkg
+* https://github.com/corpnewt/gibMacOS
+* https://github.com/corpnewt/SSDTTime
+* https://github.com/corpnewt/ProperTree
+* https://github.com/AMD-OSX/AMD_Vanilla/tree/opencore/17h
+* https://opencore.slowgeek.com
