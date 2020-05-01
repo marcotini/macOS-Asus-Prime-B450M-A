@@ -17,6 +17,7 @@ Tested with macOS 10.15.4 with OpenCore 0.5.7
 
 * **CPU:** AMD Ryzen 5 1600AF
 * **GPU:** Radeon RX 5700 8 GB
+* **RAM:** Corsair Vengeance 8GBx2 3000 MHz C15 
 
 
 ## Known issues
