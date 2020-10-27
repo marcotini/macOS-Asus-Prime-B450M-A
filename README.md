@@ -5,7 +5,7 @@ macOS Catalina for Asus B450M-A (OpenCore)
 	<img src="https://2.bp.blogspot.com/-dgdqXmBZbGY/Xqrgij1-wLI/AAAAAAAAA9A/fG3VcDxLUbs4a57qhcawWsHba29oWM7nwCLcBGAsYHQ/s1600/Schermata%2B2020-04-30%2Balle%2B16.28.01.png"/>
 </p>
 
-Tested with macOS 10.15.4 with OpenCore 0.5.7
+Tested with macOS 10.15.7 with OpenCore 0.6.1
 
 ## System specification
 
@@ -17,7 +17,7 @@ Tested with macOS 10.15.4 with OpenCore 0.5.7
 
 * **CPU:** AMD Ryzen 5 1600AF
 * **GPU:** Radeon RX 5700 8 GB
-* **RAM:** Corsair Vengeance 8GBx2 3000 MHz C15 
+* **RAM:** Corsair Vengeance 8GBx4 3000 MHz C15 
 
 
 ## Known issues
