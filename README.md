@@ -31,6 +31,15 @@ Tested with macOS 10.15.7 with OpenCore 0.6.1
 * https://github.com/acidanthera/OpenCorePkg
 * https://github.com/corpnewt/gibMacOS
 * https://github.com/corpnewt/SSDTTime
+
+## To download (OC and Kext folder)
+
+* https://github.com/acidanthera/OpenCorePkg/releases
+* https://github.com/acidanthera/Lilu/releases
+* https://github.com/acidanthera/virtualsmc/releases
+
+## Useful links
+
 * https://github.com/corpnewt/ProperTree
 * https://github.com/AMD-OSX/AMD_Vanilla/tree/opencore/17h
 * https://opencore.slowgeek.com
