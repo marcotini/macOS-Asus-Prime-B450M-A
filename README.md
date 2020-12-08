@@ -5,7 +5,7 @@ macOS Catalina for Asus B450M-A (OpenCore)
 	<img src="https://1.bp.blogspot.com/-RXBpLUCaboc/X5gSK67nXdI/AAAAAAAAEpw/y30C5Hsi8pkgZ0A9Cygo3aITRakPH8HEQCLcBGAsYHQ/s0/Screenshot%2B2020-10-27%2Bat%2B13.18.37.png"/>
 </p>
 
-Tested with macOS 10.15.7 with OpenCore 0.6.1
+Tested with macOS 11.0.1 with OpenCore 0.6.3
 
 ## System specification
 
@@ -29,14 +29,7 @@ Tested with macOS 10.15.7 with OpenCore 0.6.1
 ## Links
 
 * https://github.com/acidanthera/OpenCorePkg
-* https://github.com/corpnewt/gibMacOS
 * https://github.com/corpnewt/SSDTTime
-
-## To download (OC and Kext folder)
-
-* https://github.com/acidanthera/OpenCorePkg/releases
-* https://github.com/acidanthera/Lilu/releases
-* https://github.com/acidanthera/virtualsmc/releases
 
 ## Useful links
 
